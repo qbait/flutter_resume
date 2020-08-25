@@ -1,16 +1,20 @@
 # flutter_resume
 
-A sample Flutter application.
+The app consists in my own CV.
 
-## Getting Started
+The app is simple, but is ready to scale. It shows a modern approach to developing a mobile app using Flutter and MobX architecture. 
 
-This project is a starting point for a Flutter application.
+To see how I approached the same problem with Native Android Development, you can take a look at my project [Resume](https://github.com/qbait/Resume)
 
-A few resources to get you started if this is your first Flutter project:
+## Libraries Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [MobX](https://pub.dev/packages/mobx) 
+- [Provider](https://pub.dev/packages/provider)
+- [Json Serializable](https://pub.dev/packages/json_serializable)
+- [Chopper](https://pub.dev/packages/chopper)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TODO
+-----------------
+* Unit tests
+* Integration tests
+* Improved UX and UI
